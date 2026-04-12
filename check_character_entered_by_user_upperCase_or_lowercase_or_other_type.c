@@ -1,4 +1,5 @@
 /*Write a program to determine whether a character entered by the user is lowercase or upper Case or special character or not character.*/
+
 #include<stdio.h>
 int main(){
 char ch;
